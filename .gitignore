@@ -16,3 +16,8 @@ Thumbs.db
 *.zip
 *.csv
 data/
+
+
+# Ignore raw/processed CSVs
+/data/raw/
+/data/processed/

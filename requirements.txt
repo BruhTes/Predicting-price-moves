@@ -5,3 +5,9 @@ seaborn
 scikit-learn
 wordcloud
 jupyterlab
+
+
+TA-Lib
+yfinance
+pynance
+pandas-ta
